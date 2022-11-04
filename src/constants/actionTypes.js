@@ -1,0 +1,14 @@
+export const CREATE = 'CREATE';
+export const FETCH = 'FETCH';
+export const DELETE = 'DELETE';
+export const FETCH_ALL = 'FETCH_ALL';
+export const AUTH = 'AUTH';
+export const LOGOUT = 'LOGOUT';
+export const FETCH_ROOMS = 'FETCH_ROOMS';
+export const ROOM = 'ROOM';
+export const AVAILABLE = 'AVAILABLE';
+export const ROOM_DET = 'ROOM_DET';
+export const INFO_DET = 'INFO_DET';
+export const BOOK_DET = 'BOOK_DET';
+export const PRICE = 'PRICE';
+export const TOTAL = 'TOTAL';
