@@ -65,7 +65,7 @@ const Tour = () => {
             </section>
             <section className="desc_gallery">
                 <div className="descLeft">
-                    <h2 className="alt-font">Northern Islands</h2>
+                    <h2 className="alt-font">Northern Side</h2>
                     <div className="img-container">
                         <img
                             className="lg-img"

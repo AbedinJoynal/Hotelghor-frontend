@@ -13,7 +13,7 @@ const About = () => {
             >
                 <div className="header-content">
                     <h2 className="alt-font">About</h2>
-                    <p>Learn about our family owned resort</p>
+                    <p>Learn about our family owned hotel</p>
                 </div>
 
                 <BookWidget />

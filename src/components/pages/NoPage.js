@@ -14,7 +14,7 @@ const About = () => {
       </header>
       <section className="desc">
         <h2 style={{ minHeight: "50vh" }}>
-          Sorry, the page you're looking for doesn't exist
+          404, the page you're looking for doesn't exist
         </h2>
       </section>
     </div>

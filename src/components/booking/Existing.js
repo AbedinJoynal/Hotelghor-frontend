@@ -15,7 +15,7 @@ const Existing = () => {
      
     };
     useEffect(() => {
-        console.log(' i was triggered');
+        console.log(' slow time out');
         setTimeout(() => {
             setLoading(false);
         }, 10000);

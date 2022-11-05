@@ -27,8 +27,8 @@ const card = [
         label: 'MASTERCARD',
     },
     {
-        value: 'DISCOVER',
-        label: 'DISCOVER',
+        value: 'BKASH',
+        label: 'BKASH',
     },
     {
         value: 'OTHER',
