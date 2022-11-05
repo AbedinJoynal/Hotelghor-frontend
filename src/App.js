@@ -31,8 +31,7 @@ const App = () => {
                 <Route path="/rooms" element={<Rooms />} />
                 <Route
                     path="/rooms/:id"
-                    exact
-                    render={(props) => <Room {...props} />}
+                    element={(props) => <Room {...props} />}
                 />
                 <Route path="/dining" element={<Dining />} />
                 <Route path="/about" element={<About />} />
@@ -40,7 +39,7 @@ const App = () => {
                 <Route path="/booking" element={<Booking />} />
                 <Route path="/booking/availability" element={<Available />} />
                 <Route path="/booking/checkout" element={<Checkout />} />
-                <Route path="/booking/confirm" element={<Confirm/>} />
+                <Route path="/booking/confirm" element={<Confirm />} />
                 <Route path="/booking/existing" element={<Existing />} />
                 <Route path="/admin" element={<Auth />} />
                 <Route path="*" element={<NoPage />} />

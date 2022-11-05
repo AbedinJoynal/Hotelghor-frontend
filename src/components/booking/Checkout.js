@@ -49,7 +49,7 @@ const Checkout = () => {
         confirmEmail: '',
         phone: '',
         paymentType: 'VISA',
-        cardNum: '0112358132134558',
+        cardNum: '5454545454545454',
     });
     const { room } = useSelector((state) => state.details);
     const guestDetails = useSelector((state) => state.details);

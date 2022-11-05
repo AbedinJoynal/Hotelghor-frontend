@@ -116,10 +116,10 @@ const Home = () => {
                             <p>
                                 From lush mountains of the central and northern
                                 areas of the country to scenery formations of
-                                southern Thailand, the country owes part of its
+                                southern Chittagong, the country owes part of its
                                 fame to its wealth of natural wonders. Follow us
                                 through these breathtaking natural sights that
-                                you shouldn’t miss if you come to Thailand – all
+                                you shouldn’t miss if you come to Chittagong – all
                                 of them will make you stare wide-eyed in front
                                 of the outstanding beauty of Mother Nature.
                             </p>
