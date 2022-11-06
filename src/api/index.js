@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: 'https://suay-resort-api.onrender.com/',
+    baseURL: 'https://hotelghor.herokuapp.com/',
 });
 
 export const fetchRooms = () => API.get('/rooms');
