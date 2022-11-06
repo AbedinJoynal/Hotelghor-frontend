@@ -143,7 +143,7 @@ const Checkout = () => {
                         <div>
                             <h4>Total</h4>
                             <span style={{ fontWeight: 'bold' }}>
-                                ${room.totalPrice}
+                                Tk {room.totalPrice}
                             </span>
                         </div>
                     </>
