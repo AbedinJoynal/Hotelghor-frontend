@@ -28,7 +28,7 @@ const Dining = () => {
             </section>
             <section className="desc_gallery">
                 <div className="descLeft">
-                    <h2 className="alt-font">Fita ta</h2>
+                    <h2 className="alt-font">Fish Curry</h2>
                     <div className="img-container">
                         <img
                             src="/img/dining/dining_article.jpg"
