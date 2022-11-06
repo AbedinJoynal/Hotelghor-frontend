@@ -67,11 +67,11 @@ const Available = () => {
             <div className="card-price">
               <div>
                 <label>Daily Price</label>
-                <h4>{`$${room.price}`}</h4>
+                <h4>{`Tk ${room.price}`}</h4>
               </div>
               <div>
                 <label>Total ({totalNights} Nights)</label>
-                <h4>{`$${room.price * totalNights}`}</h4>
+                <h4>{`Tk ${room.price * totalNights}`}</h4>
               </div>
               {room.hasError ? (
                 <button
